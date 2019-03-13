@@ -5,11 +5,8 @@
 >*本代码于2019-03-12测试通过。
 
 ###下面简单看看可视化的效果吧（使用了pyecharts）
-![城市岗位数量柱状图]
-(https://github.com/wanli6a/spider_jobs-visual/blob/master/vis_photos/city_count1.JPG)
+![城市岗位数量柱状图](https://github.com/wanli6a/spider_jobs-visual/blob/master/vis_photos/city_count1.JPG)
 
-![饼状分布图]
-(https://github.com/wanli6a/spider_jobs-visual/blob/master/vis_photos/spider0.gif)
+![饼状分布图](https://github.com/wanli6a/spider_jobs-visual/blob/master/vis_photos/spider0.gif)
 
-![地图分布]
-(https://github.com/wanli6a/spider_jobs-visual/blob/master/vis_photos/spider.gif)
+![地图分布](https://github.com/wanli6a/spider_jobs-visual/blob/master/vis_photos/spider.gif)
